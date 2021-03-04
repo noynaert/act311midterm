@@ -1,0 +1,10 @@
+[
+  { "dept": "Teaching English as a Second Language", "filename": "TSL.json" },
+  { "dept": "Computer Science, Mathematics, & Physics","filename": "CSMP.json"  },
+  { "dept": "Honors", "filename": "HON.json" },
+  { "dept": "Allied Health", "filename": "ALH.json" },
+  { "dept": "Biology", "filename": "BIO.json" },
+  { "dept": "Health, Physical Education, and Recreation","filename": "PED.json"},
+  { "dept": "Chemistry", "filename": "CHE.json" },
+  { "dept": "University Studies", "filename": "UNV.json" }
+]
